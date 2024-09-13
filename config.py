@@ -22,10 +22,10 @@ API_HASH = os.environ.get("API_HASH", "f6a2bd2b9aa6aa06fbba8c14a3fba29d")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002153233058"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "seller9999191")
+OWNER = os.environ.get("OWNER", "yessboss10")
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "7453725345"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6161643477"))
 
 #Port
 PORT = os.environ.get("PORT", "8030")
@@ -67,7 +67,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘᴀɪ!!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(7453725345)
+ADMINS.append(6161643477)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
